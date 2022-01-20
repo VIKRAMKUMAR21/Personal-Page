@@ -1,0 +1,44 @@
+body {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin: 0;
+  background-image: url("CSS/gradient.jpg");
+  background-repeat: repeat;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 75px;
+  color: #068399;
+}
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #068399;
+}
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #068399;
+}
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: dotted 2px;
+  border-top: 10px solid #30ac97;
+}
+a {
+  color: #03272e;
+  margin: 10px 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: hsl(0, 0%, 100%);
+}
+.jumbotron-img {
+  background: url("/Source/coding.jpg") no-repeat fixed;
+}
+.jumbotron {
+  height: 40vh;
+}
+/*box-shadow: 5px 10px 8px 2px burlywood; 
+border: 2px solid burlywood;
+*/
